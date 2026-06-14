@@ -1144,6 +1144,24 @@
               "couleur": "Rouge/orange",
               "prix": 6,
               "confiance": 0.95
+            },
+            {
+              "code": "SIR-FIG-003",
+              "rarete": "diamant",
+              "nom": "Sirène queue jaune",
+              "qte": 1,
+              "couleur": "Jaune/or",
+              "prix": 6,
+              "confiance": 0.95
+            },
+            {
+              "code": "SIR-FIG-004",
+              "rarete": "diamant",
+              "nom": "Sirène queue verte",
+              "qte": 1,
+              "couleur": "Vert",
+              "prix": 6,
+              "confiance": 0.95
             }
           ]
         }
@@ -2835,8 +2853,609 @@
           ]
         }
       ]
+    },
+    {
+      "univers": "👶 Enfants & Bébés",
+      "code": "ENF",
+      "color": "#F59E0B",
+      "light": "#FFFBEB",
+      "sets": [
+        {
+          "nom": "Klicky enfants ancienne gamme",
+          "ref_set": "Ancienne gamme 80-90",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "ENF-OLD-001",
+              "rarete": "argent",
+              "nom": "Klicky enfant rouge/bleu (noir)",
+              "qte": 1,
+              "couleur": "Rouge/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-OLD-002",
+              "rarete": "argent",
+              "nom": "Klicky enfant rouge/bleu (blanc)",
+              "qte": 1,
+              "couleur": "Rouge/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-OLD-003",
+              "rarete": "argent",
+              "nom": "Klicky enfant rouge/beige",
+              "qte": 1,
+              "couleur": "Rouge/beige",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-OLD-004",
+              "rarete": "argent",
+              "nom": "Klicky enfant rouge/bleu (cheveux)",
+              "qte": 1,
+              "couleur": "Rouge/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-OLD-005",
+              "rarete": "argent",
+              "nom": "Klicky enfant jaune/blanc",
+              "qte": 1,
+              "couleur": "Jaune/blanc",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-OLD-006",
+              "rarete": "argent",
+              "nom": "Klicky enfant vert/blanc",
+              "qte": 2,
+              "couleur": "Vert/blanc",
+              "prix": 2,
+              "confiance": 0.95
+            }
+          ]
+        },
+        {
+          "nom": "Enfants City Life modernes",
+          "ref_set": "City Life / Famille",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "ENF-FIG-001",
+              "rarete": "argent",
+              "nom": "Enfant écharpe blanc/jaune",
+              "qte": 1,
+              "couleur": "Blanc/jaune/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-002",
+              "rarete": "argent",
+              "nom": "Enfant gilet carreaux/orange",
+              "qte": 1,
+              "couleur": "Orange/carreaux",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-003",
+              "rarete": "argent",
+              "nom": "Enfant pull orange robot",
+              "qte": 1,
+              "couleur": "Orange/noir",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-004",
+              "rarete": "argent",
+              "nom": "Enfant pull bleu licorne",
+              "qte": 1,
+              "couleur": "Bleu/rose",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-005",
+              "rarete": "argent",
+              "nom": "Enfant t-shirt jaune",
+              "qte": 1,
+              "couleur": "Jaune/violet",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-006",
+              "rarete": "argent",
+              "nom": "Enfant gilet bleu/rouge/jaune",
+              "qte": 1,
+              "couleur": "Bleu/rouge/jaune",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-007",
+              "rarete": "argent",
+              "nom": "Enfant chemise carreaux marron",
+              "qte": 1,
+              "couleur": "Marron/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-008",
+              "rarete": "argent",
+              "nom": "Enfant t-shirt rose rayé",
+              "qte": 1,
+              "couleur": "Rose/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-009",
+              "rarete": "argent",
+              "nom": "Enfant pull rouge renard",
+              "qte": 1,
+              "couleur": "Rouge/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-010",
+              "rarete": "argent",
+              "nom": "Enfant t-shirt n°4 rouge",
+              "qte": 1,
+              "couleur": "Rouge/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-011",
+              "rarete": "argent",
+              "nom": "Enfant pull vert monstre",
+              "qte": 1,
+              "couleur": "Vert/rouge",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-012",
+              "rarete": "argent",
+              "nom": "Enfant tablier bleu/violet",
+              "qte": 1,
+              "couleur": "Bleu/violet",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-013",
+              "rarete": "argent",
+              "nom": "Enfant t-shirt vert voiture",
+              "qte": 1,
+              "couleur": "Vert/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-014",
+              "rarete": "argent",
+              "nom": "Enfant costume tyrolien",
+              "qte": 1,
+              "couleur": "Blanc/vert/rouge",
+              "prix": 2.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-015",
+              "rarete": "argent",
+              "nom": "Enfant gilet rose papillon",
+              "qte": 1,
+              "couleur": "Rose/violet",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-016",
+              "rarete": "argent",
+              "nom": "Enfant t-shirt zèbre",
+              "qte": 1,
+              "couleur": "Blanc/noir/rouge",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-017",
+              "rarete": "argent",
+              "nom": "Enfant t-shirt bonhomme vert",
+              "qte": 1,
+              "couleur": "Rouge/vert",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-018",
+              "rarete": "argent",
+              "nom": "Enfant t-shirt fleurs bleu",
+              "qte": 1,
+              "couleur": "Bleu/vert",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-019",
+              "rarete": "argent",
+              "nom": "Enfant n°54 Sports rouge",
+              "qte": 1,
+              "couleur": "Rouge/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-020",
+              "rarete": "argent",
+              "nom": "Enfant salopette orange/vert",
+              "qte": 1,
+              "couleur": "Orange/vert",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-021",
+              "rarete": "argent",
+              "nom": "Enfant requin blanc/orange",
+              "qte": 1,
+              "couleur": "Blanc/orange",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-022",
+              "rarete": "argent",
+              "nom": "Enfant fleurs vert/bleu",
+              "qte": 1,
+              "couleur": "Vert/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-023",
+              "rarete": "argent",
+              "nom": "Enfant violet rayé étoile",
+              "qte": 1,
+              "couleur": "Violet/blanc",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-024",
+              "rarete": "argent",
+              "nom": "Enfant t-shirt feuilles blanc",
+              "qte": 1,
+              "couleur": "Blanc/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-025",
+              "rarete": "argent",
+              "nom": "Enfant rayé turquoise",
+              "qte": 1,
+              "couleur": "Turquoise/rouge",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-026",
+              "rarete": "argent",
+              "nom": "Enfant salopette rouge",
+              "qte": 1,
+              "couleur": "Rouge/blanc",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-027",
+              "rarete": "argent",
+              "nom": "Enfant orange dragon",
+              "qte": 1,
+              "couleur": "Orange/noir",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-028",
+              "rarete": "argent",
+              "nom": "Enfant veste turquoise/rose",
+              "qte": 1,
+              "couleur": "Turquoise/rose",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-029",
+              "rarete": "argent",
+              "nom": "Enfant veste noire rayée",
+              "qte": 1,
+              "couleur": "Noir/bleu/jaune",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-030",
+              "rarete": "argent",
+              "nom": "Enfant licorne bleu/rose",
+              "qte": 1,
+              "couleur": "Bleu/rose",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-031",
+              "rarete": "argent",
+              "nom": "Enfant dauphin bleu/vert",
+              "qte": 1,
+              "couleur": "Bleu/vert",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-032",
+              "rarete": "argent",
+              "nom": "Enfant n°15 blanc/bleu",
+              "qte": 1,
+              "couleur": "Blanc/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-033",
+              "rarete": "argent",
+              "nom": "Enfant rayé rose/jaune",
+              "qte": 1,
+              "couleur": "Rose/jaune",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-034",
+              "rarete": "argent",
+              "nom": "Enfant veste lilas/vert",
+              "qte": 1,
+              "couleur": "Lilas/vert",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-035",
+              "rarete": "argent",
+              "nom": "Enfant lézard blanc/bleu",
+              "qte": 1,
+              "couleur": "Blanc/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-036",
+              "rarete": "argent",
+              "nom": "Enfant rose/vert",
+              "qte": 1,
+              "couleur": "Rose/vert",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-037",
+              "rarete": "argent",
+              "nom": "Enfant hoodie bleu/violet",
+              "qte": 1,
+              "couleur": "Bleu/violet",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-038",
+              "rarete": "argent",
+              "nom": "Enfant sportif jaune/rose",
+              "qte": 1,
+              "couleur": "Jaune/rose",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-039",
+              "rarete": "argent",
+              "nom": "Enfant zèbre blanc/noir",
+              "qte": 1,
+              "couleur": "Blanc/noir/rouge",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-040",
+              "rarete": "argent",
+              "nom": "Enfant t-shirt tyrolien vert",
+              "qte": 1,
+              "couleur": "Vert/rouge",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-041",
+              "rarete": "argent",
+              "nom": "Enfant veste bleue/jaune",
+              "qte": 1,
+              "couleur": "Bleu/jaune",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-FIG-042",
+              "rarete": "argent",
+              "nom": "Enfant zigzag vert/rouge",
+              "qte": 1,
+              "couleur": "Vert/rouge",
+              "prix": 2,
+              "confiance": 0.95
+            }
+          ]
+        },
+        {
+          "nom": "Enfants Plage & Natation",
+          "ref_set": "City / Plage",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "ENF-PLG-001",
+              "rarete": "argent",
+              "nom": "Enfant maillot fleurs rose",
+              "qte": 1,
+              "couleur": "Rose/rouge",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-PLG-002",
+              "rarete": "argent",
+              "nom": "Enfant short orange peau foncée",
+              "qte": 1,
+              "couleur": "Orange",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-PLG-003",
+              "rarete": "argent",
+              "nom": "Enfant short orange peau claire",
+              "qte": 1,
+              "couleur": "Orange",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-PLG-004",
+              "rarete": "argent",
+              "nom": "Enfant maillot rayé vert",
+              "qte": 1,
+              "couleur": "Vert/blanc/rose",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-PLG-005",
+              "rarete": "argent",
+              "nom": "Enfant t-shirt éclair violet",
+              "qte": 1,
+              "couleur": "Blanc/violet",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-PLG-006",
+              "rarete": "argent",
+              "nom": "Enfant rayé turquoise/violet",
+              "qte": 1,
+              "couleur": "Turquoise/violet",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-PLG-007",
+              "rarete": "argent",
+              "nom": "Enfant pull ours jaune",
+              "qte": 1,
+              "couleur": "Jaune/vert",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-PLG-008",
+              "rarete": "argent",
+              "nom": "Enfant pull rayé orange",
+              "qte": 1,
+              "couleur": "Orange/bleu",
+              "prix": 2,
+              "confiance": 0.95
+            }
+          ]
+        },
+        {
+          "nom": "Figurines 1.2.3 & Bébés",
+          "ref_set": "1.2.3 Playmobil",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "ENF-123-001",
+              "rarete": "or",
+              "nom": "Figurine 1.2.3 voiture verte",
+              "qte": 1,
+              "couleur": "Bleu/vert",
+              "prix": 2.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-123-002",
+              "rarete": "or",
+              "nom": "Figurine 1.2.3 champignon",
+              "qte": 2,
+              "couleur": "Blanc/vert",
+              "prix": 2.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-123-003",
+              "rarete": "or",
+              "nom": "Bébé combinaison verte",
+              "qte": 1,
+              "couleur": "Vert",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-123-004",
+              "rarete": "or",
+              "nom": "Bébé rouge",
+              "qte": 1,
+              "couleur": "Rouge",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ENF-123-005",
+              "rarete": "or",
+              "nom": "Bébé voiture rouge",
+              "qte": 1,
+              "couleur": "Rouge",
+              "prix": 2,
+              "confiance": 0.95
+            }
+          ]
+        }
+      ]
     }
   ],
   "negociations": [],
-  "lastUpdate": "14/06/2026 23:16"
+  "lastUpdate": "14/06/2026 23:21"
 }
