@@ -3454,8 +3454,924 @@
           ]
         }
       ]
+    },
+    {
+      "univers": "🦕 Dinosaures & Dragons",
+      "code": "DINO",
+      "color": "#7C3AED",
+      "light": "#F3EEFF",
+      "sets": [
+        {
+          "nom": "Dino Rise — Grands dinosaures",
+          "ref_set": "71043",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "DINO-TRX-002",
+              "rarete": "diamant",
+              "nom": "T-Rex géant articulé vert",
+              "qte": 1,
+              "couleur": "Vert/rouge",
+              "prix": 18,
+              "confiance": 0.95
+            },
+            {
+              "code": "DINO-TRI-002",
+              "rarete": "diamant",
+              "nom": "Tricératops géant articulé orange",
+              "qte": 1,
+              "couleur": "Orange/beige",
+              "prix": 15,
+              "confiance": 0.95
+            },
+            {
+              "code": "DINO-PTE-001",
+              "rarete": "diamant",
+              "nom": "Ptérodactyle bleu/vert grand",
+              "qte": 1,
+              "couleur": "Bleu/vert",
+              "prix": 12,
+              "confiance": 0.95
+            },
+            {
+              "code": "DINO-PTE-002",
+              "rarete": "or",
+              "nom": "Ptérodactyle bleu petit",
+              "qte": 1,
+              "couleur": "Bleu",
+              "prix": 5,
+              "confiance": 0.8
+            },
+            {
+              "code": "DINO-SM-001",
+              "rarete": "or",
+              "nom": "Dragon petit orange/rouge",
+              "qte": 1,
+              "couleur": "Orange/rouge",
+              "prix": 5,
+              "confiance": 0.8
+            },
+            {
+              "code": "DINO-SM-002",
+              "rarete": "argent",
+              "nom": "Petit dino gris",
+              "qte": 1,
+              "couleur": "Gris",
+              "prix": 3,
+              "confiance": 0.8
+            },
+            {
+              "code": "DINO-SM-003",
+              "rarete": "argent",
+              "nom": "Petit dino rose",
+              "qte": 1,
+              "couleur": "Rose",
+              "prix": 3,
+              "confiance": 0.8
+            },
+            {
+              "code": "DINO-SM-004",
+              "rarete": "argent",
+              "nom": "Petit dino orange",
+              "qte": 1,
+              "couleur": "Orange",
+              "prix": 3,
+              "confiance": 0.8
+            },
+            {
+              "code": "DINO-MAM-001",
+              "rarete": "or",
+              "nom": "Mammouth brun",
+              "qte": 2,
+              "couleur": "Brun",
+              "prix": 5,
+              "confiance": 0.8
+            },
+            {
+              "code": "DINO-MAM-002",
+              "rarete": "or",
+              "nom": "Bébé mammouth",
+              "qte": 1,
+              "couleur": "Brun",
+              "prix": 3,
+              "confiance": 0.8
+            }
+          ]
+        },
+        {
+          "nom": "Novelmore — Dragons",
+          "ref_set": "71080",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "DRAG-MED-002",
+              "rarete": "diamant",
+              "nom": "Dragon moyen bordeaux/jaune",
+              "qte": 1,
+              "couleur": "Bordeaux/jaune",
+              "prix": 12,
+              "confiance": 0.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "univers": "🦁 Zoo & Safari",
+      "code": "ZOO",
+      "color": "#D97706",
+      "light": "#FFFBEB",
+      "sets": [
+        {
+          "nom": "Zoo — Grands félins",
+          "ref_set": "6634",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "ZOO-LIO-005",
+              "rarete": "argent",
+              "nom": "Lion adulte crinière noire",
+              "qte": 3,
+              "couleur": "Beige/noir",
+              "prix": 2.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-LIO-006",
+              "rarete": "argent",
+              "nom": "Lion adulte crinière brune",
+              "qte": 2,
+              "couleur": "Beige/marron",
+              "prix": 2.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-LIO-007",
+              "rarete": "argent",
+              "nom": "Lionne",
+              "qte": 4,
+              "couleur": "Beige",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-LIO-008",
+              "rarete": "argent",
+              "nom": "Lionceau",
+              "qte": 7,
+              "couleur": "Beige",
+              "prix": 1.2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-GUE-002",
+              "rarete": "or",
+              "nom": "Guépard/Léopard jaune",
+              "qte": 2,
+              "couleur": "Jaune/taches noires",
+              "prix": 3.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-FEL-001",
+              "rarete": "argent",
+              "nom": "Félin/Puma marron",
+              "qte": 1,
+              "couleur": "Marron",
+              "prix": 3,
+              "confiance": 0.8
+            }
+          ]
+        },
+        {
+          "nom": "Zoo — Savane",
+          "ref_set": "6634",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "ZOO-GIR-003",
+              "rarete": "argent",
+              "nom": "Girafe adulte",
+              "qte": 4,
+              "couleur": "Jaune/marron",
+              "prix": 3,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-ZEB-003",
+              "rarete": "argent",
+              "nom": "Zèbre adulte",
+              "qte": 4,
+              "couleur": "Noir/blanc",
+              "prix": 2.5,
+              "confiance": 0.95
+            }
+          ]
+        },
+        {
+          "nom": "Zoo — Polaire",
+          "ref_set": "Zoo Polaire",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "ZOO-REN-001",
+              "rarete": "or",
+              "nom": "Renne/Cerf blanc",
+              "qte": 5,
+              "couleur": "Blanc/marron",
+              "prix": 3.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-PIN-004",
+              "rarete": "argent",
+              "nom": "Pingouin adulte",
+              "qte": 3,
+              "couleur": "Noir/blanc/orange",
+              "prix": 1.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-PIN-005",
+              "rarete": "argent",
+              "nom": "Bébé pingouin",
+              "qte": 3,
+              "couleur": "Gris",
+              "prix": 0.8,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-KOA-002",
+              "rarete": "argent",
+              "nom": "Koala",
+              "qte": 3,
+              "couleur": "Gris",
+              "prix": 2.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-PHO-002",
+              "rarete": "argent",
+              "nom": "Phoque/Otarie blanc",
+              "qte": 2,
+              "couleur": "Blanc",
+              "prix": 2.5,
+              "confiance": 0.8
+            },
+            {
+              "code": "ZOO-LAP-001",
+              "rarete": "bronze",
+              "nom": "Lapin blanc",
+              "qte": 2,
+              "couleur": "Blanc",
+              "prix": 1,
+              "confiance": 0.95
+            }
+          ]
+        },
+        {
+          "nom": "Zoo — Oiseaux exotiques",
+          "ref_set": "Zoo",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "ZOO-FLA-002",
+              "rarete": "argent",
+              "nom": "Flamant rose",
+              "qte": 5,
+              "couleur": "Rose",
+              "prix": 1.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-FLA-003",
+              "rarete": "argent",
+              "nom": "Flamant blanc",
+              "qte": 1,
+              "couleur": "Blanc",
+              "prix": 1.5,
+              "confiance": 0.8
+            },
+            {
+              "code": "ZOO-PAO-002",
+              "rarete": "or",
+              "nom": "Paon vert/or",
+              "qte": 1,
+              "couleur": "Vert/or",
+              "prix": 3,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-COQ-001",
+              "rarete": "or",
+              "nom": "Coq bleu",
+              "qte": 1,
+              "couleur": "Bleu/or",
+              "prix": 2.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-AUT-001",
+              "rarete": "or",
+              "nom": "Autruche/Cigogne grise",
+              "qte": 1,
+              "couleur": "Gris",
+              "prix": 3,
+              "confiance": 0.8
+            }
+          ]
+        },
+        {
+          "nom": "Zoo — Primates",
+          "ref_set": "Zoo",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "ZOO-SIN-004",
+              "rarete": "argent",
+              "nom": "Singe adulte",
+              "qte": 3,
+              "couleur": "Marron foncé",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-SIN-005",
+              "rarete": "or",
+              "nom": "Singe rayé",
+              "qte": 1,
+              "couleur": "Marron/rayé",
+              "prix": 2.5,
+              "confiance": 0.8
+            },
+            {
+              "code": "ZOO-SIN-006",
+              "rarete": "argent",
+              "nom": "Bébé singe",
+              "qte": 2,
+              "couleur": "Marron",
+              "prix": 1.5,
+              "confiance": 0.95
+            }
+          ]
+        },
+        {
+          "nom": "Zoo — Petits animaux",
+          "ref_set": "Zoo",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "ZOO-TIG-003",
+              "rarete": "or",
+              "nom": "Bébé tigre",
+              "qte": 2,
+              "couleur": "Orange/rayures",
+              "prix": 2,
+              "confiance": 0.8
+            },
+            {
+              "code": "ZOO-LIO-009",
+              "rarete": "argent",
+              "nom": "Bébé lion",
+              "qte": 1,
+              "couleur": "Beige",
+              "prix": 1.5,
+              "confiance": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "univers": "🦜 Nature & Oiseaux",
+      "code": "NAT",
+      "color": "#059669",
+      "light": "#ECFDF5",
+      "sets": [
+        {
+          "nom": "Nature — Petits oiseaux & insectes",
+          "ref_set": "Nature",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "NAT-OIS-003",
+              "rarete": "bronze",
+              "nom": "Petits oiseaux variés",
+              "qte": 25,
+              "couleur": "Verts/rouges/orange/bleus",
+              "prix": 0.5,
+              "confiance": 0.8
+            },
+            {
+              "code": "NAT-PAP-004",
+              "rarete": "bronze",
+              "nom": "Papillon orange",
+              "qte": 2,
+              "couleur": "Orange",
+              "prix": 0.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "NAT-PAP-005",
+              "rarete": "bronze",
+              "nom": "Papillon bleu",
+              "qte": 2,
+              "couleur": "Bleu",
+              "prix": 0.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "NAT-PAP-006",
+              "rarete": "bronze",
+              "nom": "Papillon rose",
+              "qte": 1,
+              "couleur": "Rose",
+              "prix": 0.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "NAT-ECU-001",
+              "rarete": "argent",
+              "nom": "Écureuil marron",
+              "qte": 3,
+              "couleur": "Marron",
+              "prix": 1.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "NAT-COR-001",
+              "rarete": "argent",
+              "nom": "Corbeau/Pie noir",
+              "qte": 1,
+              "couleur": "Noir",
+              "prix": 1,
+              "confiance": 0.8
+            },
+            {
+              "code": "NAT-CHS-001",
+              "rarete": "argent",
+              "nom": "Chauve-souris grise",
+              "qte": 1,
+              "couleur": "Gris",
+              "prix": 1.5,
+              "confiance": 0.8
+            },
+            {
+              "code": "NAT-SER-003",
+              "rarete": "bronze",
+              "nom": "Serpent vert",
+              "qte": 1,
+              "couleur": "Vert",
+              "prix": 0.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "NAT-SER-004",
+              "rarete": "bronze",
+              "nom": "Serpent marron",
+              "qte": 1,
+              "couleur": "Marron",
+              "prix": 0.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "NAT-MUS-001",
+              "rarete": "bronze",
+              "nom": "Petits mammifères divers",
+              "qte": 15,
+              "couleur": "Variés",
+              "prix": 0.5,
+              "confiance": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "univers": "🐴 Chevaux & Équidés",
+      "code": "CHV",
+      "color": "#B45309",
+      "light": "#FEF3C7",
+      "sets": [
+        {
+          "nom": "Ranch — Chevaux",
+          "ref_set": "Ranch",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "CHV-CHV-005",
+              "rarete": "argent",
+              "nom": "Cheval marron",
+              "qte": 3,
+              "couleur": "Marron",
+              "prix": 3.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "CHV-CHV-006",
+              "rarete": "argent",
+              "nom": "Cheval noir",
+              "qte": 4,
+              "couleur": "Noir",
+              "prix": 3.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "CHV-CHV-007",
+              "rarete": "argent",
+              "nom": "Cheval blanc",
+              "qte": 2,
+              "couleur": "Blanc",
+              "prix": 3.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "CHV-CHV-008",
+              "rarete": "argent",
+              "nom": "Cheval gris",
+              "qte": 1,
+              "couleur": "Gris",
+              "prix": 3.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "CHV-CHV-009",
+              "rarete": "argent",
+              "nom": "Cheval pie",
+              "qte": 2,
+              "couleur": "Blanc/brun",
+              "prix": 3.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "CHV-CHV-010",
+              "rarete": "argent",
+              "nom": "Cheval gris tacheté",
+              "qte": 1,
+              "couleur": "Gris/taches",
+              "prix": 3.5,
+              "confiance": 0.8
+            },
+            {
+              "code": "CHV-LIC-002",
+              "rarete": "diamant",
+              "nom": "Licorne blanche/rose",
+              "qte": 1,
+              "couleur": "Blanc/rose",
+              "prix": 6,
+              "confiance": 0.95
+            },
+            {
+              "code": "CHV-LIC-003",
+              "rarete": "diamant",
+              "nom": "Licorne blanche/violet",
+              "qte": 1,
+              "couleur": "Blanc/violet",
+              "prix": 6,
+              "confiance": 0.95
+            },
+            {
+              "code": "ZOO-TIG-004",
+              "rarete": "or",
+              "nom": "Tigre blanc",
+              "qte": 1,
+              "couleur": "Blanc/rayures noires",
+              "prix": 5,
+              "confiance": 0.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "univers": "🐷 Ferme",
+      "code": "FRM",
+      "color": "#16A34A",
+      "light": "#F0FDF4",
+      "sets": [
+        {
+          "nom": "Ferme — Cochons",
+          "ref_set": "5119",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "FRM-TRU-002",
+              "rarete": "argent",
+              "nom": "Truie adulte",
+              "qte": 3,
+              "couleur": "Rose chair",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "FRM-COC-002",
+              "rarete": "argent",
+              "nom": "Cochon adulte",
+              "qte": 4,
+              "couleur": "Rose chair",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "FRM-POR-002",
+              "rarete": "bronze",
+              "nom": "Porcelet",
+              "qte": 12,
+              "couleur": "Rose chair",
+              "prix": 1,
+              "confiance": 0.95
+            }
+          ]
+        },
+        {
+          "nom": "Ferme — Volailles",
+          "ref_set": "Ferme",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "FRM-POU-002",
+              "rarete": "bronze",
+              "nom": "Poussin jaune",
+              "qte": 22,
+              "couleur": "Jaune",
+              "prix": 0.2,
+              "confiance": 0.95
+            },
+            {
+              "code": "FRM-POB-002",
+              "rarete": "bronze",
+              "nom": "Poule blanche",
+              "qte": 8,
+              "couleur": "Blanche",
+              "prix": 1,
+              "confiance": 0.95
+            },
+            {
+              "code": "FRM-PON-002",
+              "rarete": "bronze",
+              "nom": "Poule noire",
+              "qte": 8,
+              "couleur": "Noire",
+              "prix": 1,
+              "confiance": 0.95
+            },
+            {
+              "code": "FRM-ACC-003",
+              "rarete": "bronze",
+              "nom": "Cuisse de poulet",
+              "qte": 1,
+              "couleur": "Rouge/beige",
+              "prix": 0.2,
+              "confiance": 0.95
+            },
+            {
+              "code": "FRM-ACC-004",
+              "rarete": "bronze",
+              "nom": "Arête de poisson",
+              "qte": 1,
+              "couleur": "Blanc",
+              "prix": 0.2,
+              "confiance": 0.95
+            }
+          ]
+        },
+        {
+          "nom": "Forêt — Cervidés",
+          "ref_set": "Forêt",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "FOR-CER-002",
+              "rarete": "or",
+              "nom": "Cerf adulte",
+              "qte": 1,
+              "couleur": "Marron",
+              "prix": 3.5,
+              "confiance": 0.8
+            },
+            {
+              "code": "FOR-FAO-002",
+              "rarete": "or",
+              "nom": "Faon",
+              "qte": 1,
+              "couleur": "Marron/taches",
+              "prix": 2,
+              "confiance": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "univers": "🐕 Animaux domestiques",
+      "code": "DOM2",
+      "color": "#2563EB",
+      "light": "#EFF6FF",
+      "sets": [
+        {
+          "nom": "City — Chiens",
+          "ref_set": "City",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "DOM2-CHN-001",
+              "rarete": "bronze",
+              "nom": "Chien noir",
+              "qte": 4,
+              "couleur": "Noir",
+              "prix": 1.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "DOM2-CHN-002",
+              "rarete": "bronze",
+              "nom": "Chien marron",
+              "qte": 4,
+              "couleur": "Marron",
+              "prix": 1.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "DOM2-CHN-003",
+              "rarete": "bronze",
+              "nom": "Chien beige",
+              "qte": 2,
+              "couleur": "Beige",
+              "prix": 1.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "DOM2-CHN-004",
+              "rarete": "argent",
+              "nom": "Dalmatien",
+              "qte": 4,
+              "couleur": "Blanc/noir",
+              "prix": 2,
+              "confiance": 0.95
+            },
+            {
+              "code": "DOM2-CHN-005",
+              "rarete": "argent",
+              "nom": "Chiot",
+              "qte": 7,
+              "couleur": "Beige/marron",
+              "prix": 1,
+              "confiance": 0.8
+            }
+          ]
+        },
+        {
+          "nom": "City — Chats",
+          "ref_set": "City",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "DOM2-CAT-001",
+              "rarete": "bronze",
+              "nom": "Chat noir",
+              "qte": 4,
+              "couleur": "Noir",
+              "prix": 1,
+              "confiance": 0.95
+            },
+            {
+              "code": "DOM2-CAT-002",
+              "rarete": "bronze",
+              "nom": "Chat marron",
+              "qte": 3,
+              "couleur": "Marron/beige",
+              "prix": 1,
+              "confiance": 0.95
+            },
+            {
+              "code": "DOM2-CAT-003",
+              "rarete": "bronze",
+              "nom": "Chat gris",
+              "qte": 2,
+              "couleur": "Gris",
+              "prix": 1,
+              "confiance": 0.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "univers": "🌊 Aquarium & Mer",
+      "code": "MER2",
+      "color": "#0891B2",
+      "light": "#ECFEFF",
+      "sets": [
+        {
+          "nom": "Aquarium — Poissons & Mer",
+          "ref_set": "Aquarium",
+          "ref_statut": "estimé",
+          "total_officiel": null,
+          "completude_source": null,
+          "prix_achat_lot": null,
+          "date_achat": "inconnue",
+          "pieces": [
+            {
+              "code": "MER2-POI-001",
+              "rarete": "argent",
+              "nom": "Poisson tropical jaune/noir",
+              "qte": 1,
+              "couleur": "Jaune/noir",
+              "prix": 1.5,
+              "confiance": 0.95
+            },
+            {
+              "code": "MER2-POI-002",
+              "rarete": "bronze",
+              "nom": "Petit poisson gris",
+              "qte": 8,
+              "couleur": "Gris argenté",
+              "prix": 0.3,
+              "confiance": 0.95
+            },
+            {
+              "code": "MER2-COQ-001",
+              "rarete": "bronze",
+              "nom": "Coquillage bleu",
+              "qte": 1,
+              "couleur": "Bleu",
+              "prix": 0.5,
+              "confiance": 0.8
+            },
+            {
+              "code": "MER2-SER-001",
+              "rarete": "bronze",
+              "nom": "Serpent de mer vert",
+              "qte": 1,
+              "couleur": "Vert",
+              "prix": 0.5,
+              "confiance": 0.8
+            }
+          ]
+        }
+      ]
     }
   ],
   "negociations": [],
-  "lastUpdate": "14/06/2026 23:21"
+  "lastUpdate": "14/06/2026 23:22"
 }
